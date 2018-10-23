@@ -39,11 +39,91 @@
             }
         },
         {
+            "Key": "1143af1d-83f8-43de-924b-4c787f18d75f",
+            "Value": {
+                "id": "7d4c9f6d-527f-4395-842a-c471c35f66f8",
+                "resourcePath": "scripts\\hsHttpRequestDB\\hsHttpRequestDB.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "15dac0cd-cc04-45ff-8b0c-cddb69b852cd",
+            "Value": {
+                "id": "d04120e3-9d8d-4455-b26e-7e364e5681f9",
+                "resourcePath": "scripts\\hsLocalUserGetPass\\hsLocalUserGetPass.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1bcf73d3-52ab-4321-8bf3-2cba05acb704",
+            "Value": {
+                "id": "2bfbeaa4-04e6-47f3-8803-c81f8fba025f",
+                "resourcePath": "scripts\\hsUtilitiesGenPassword\\hsUtilitiesGenPassword.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1f290d5b-4ceb-465f-aa93-f351fbf753ad",
+            "Value": {
+                "id": "256493aa-1279-4e0e-844a-0ee0550d8283",
+                "resourcePath": "scripts\\hsLocalUserGetName\\hsLocalUserGetName.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "28bff4dd-240e-4232-bcaa-164799c2df93",
+            "Value": {
+                "id": "67a8608a-8d38-4c7c-a06f-c599da77ca5e",
+                "resourcePath": "scripts\\hsHttpGetCallback\\hsHttpGetCallback.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "391856a0-8f7e-4d87-a44d-f939dd3cc21f",
+            "Value": {
+                "id": "cde676d9-196a-4779-882b-54f092951b30",
+                "resourcePath": "scripts\\hsConfig\\hsConfig.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3c37521b-7874-4f3d-9ca5-3de9d39de178",
+            "Value": {
+                "id": "4f4274ee-30b5-4713-acf9-00ddc1fa17f7",
+                "resourcePath": "scripts\\hsLocalUserSetAuthed\\hsLocalUserSetAuthed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3ca7a579-b1c0-4201-9f89-99ab48f10535",
+            "Value": {
+                "id": "cb462e07-45a1-44b1-aadf-c655912ccc86",
+                "resourcePath": "scripts\\hsHttpPost\\hsHttpPost.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "439b9c1f-4c09-4751-91cd-9b3aa44d0a04",
             "Value": {
                 "id": "6ca84ffc-f175-4673-8dbf-49f9db102913",
                 "resourcePath": "views\\439b9c1f-4c09-4751-91cd-9b3aa44d0a04.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "54fcc7d7-b299-4770-a6f5-50484fa89ea5",
+            "Value": {
+                "id": "6a2ea710-e493-4722-b73a-a0d4e16b4966",
+                "resourcePath": "scripts\\hsHttpBuildQuery\\hsHttpBuildQuery.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5656ace7-9ad1-4f99-bfa3-1cb19a0d1ed6",
+            "Value": {
+                "id": "b2a62900-de20-4fe9-a9fa-e83dd1d0ea2b",
+                "resourcePath": "scripts\\hsLocalUserGetTempName\\hsLocalUserGetTempName.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -60,6 +140,14 @@
                 "id": "ce5ffdb8-ec81-4ddd-b970-2eaa31ee16bb",
                 "resourcePath": "views\\5cc6683a-2baa-4511-9ae7-a4cf331d1fb2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5cd62d54-2132-4df7-a67b-69f0ceeed574",
+            "Value": {
+                "id": "8a202c63-77ee-49a9-9078-6a66a17c598f",
+                "resourcePath": "scripts\\hsHttpGet\\hsHttpGet.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -87,6 +175,22 @@
             }
         },
         {
+            "Key": "7bf0fd81-be12-4ed4-8d48-79c4f2896c4c",
+            "Value": {
+                "id": "e1860b04-b16a-4394-8236-f90ad2369492",
+                "resourcePath": "scripts\\hsUtilitiesCleanCallback\\hsUtilitiesCleanCallback.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7c59c609-1974-48ef-929d-d5d92401c3c9",
+            "Value": {
+                "id": "e32894ac-e51a-4e6c-af92-44469c4cc8bf",
+                "resourcePath": "scripts\\hsLocalUserGetTempPass\\hsLocalUserGetTempPass.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "84910e32-0369-496b-93ed-0ee46ee9c318",
             "Value": {
                 "id": "15787e2a-b320-48cf-b467-d02ca4331407",
@@ -103,6 +207,22 @@
             }
         },
         {
+            "Key": "9840dd17-1356-415a-9603-6e0bd204eb1c",
+            "Value": {
+                "id": "559283eb-e44b-492f-839a-d22937e94350",
+                "resourcePath": "scripts\\hsLocalUserSet\\hsLocalUserSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "98e85d20-90b3-4f3b-98f3-d6d182d05287",
+            "Value": {
+                "id": "483b3716-da0b-4585-8e30-4d67333eaf8e",
+                "resourcePath": "scripts\\hsHttpBeginRequest\\hsHttpBeginRequest.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a7e9fa8d-c8eb-40ca-83d3-b65664808257",
             "Value": {
                 "id": "5784de87-4c76-4c52-bbde-ecf90a380f76",
@@ -116,6 +236,14 @@
                 "id": "272e0caa-248c-4b49-824a-0e1768690beb",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa704798-0186-4bda-9265-da6dc275e4c8",
+            "Value": {
+                "id": "6d2d49fe-5b8f-4354-a320-01c10f85baaf",
+                "resourcePath": "scripts\\hsHttpGetRequestIndex\\hsHttpGetRequestIndex.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -159,6 +287,14 @@
             }
         },
         {
+            "Key": "d0c46761-4d79-4905-9c21-2d479beeda9d",
+            "Value": {
+                "id": "08c8e752-23af-4d07-ab41-a783538178a5",
+                "resourcePath": "scripts\\hsTryAuth\\hsTryAuth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d21d24d1-b100-4efa-871b-c4db52465f66",
             "Value": {
                 "id": "42dd1874-d264-4520-b3d8-243c82b9b2bb",
@@ -167,11 +303,35 @@
             }
         },
         {
+            "Key": "d5ee7400-8b4f-414d-9c06-331f7ffb8eb0",
+            "Value": {
+                "id": "97358395-4761-438b-9ae7-95cf3a123887",
+                "resourcePath": "scripts\\hsTransactionGetMap\\hsTransactionGetMap.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dc5b87f2-5988-4863-be01-0be2a94ab0d1",
+            "Value": {
+                "id": "66c85400-149a-412b-aa31-808389c60751",
+                "resourcePath": "scripts\\hsLocalUserGetAuthed\\hsLocalUserGetAuthed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dc90cced-37a4-4907-8925-1b58df2412c4",
             "Value": {
                 "id": "27656571-b2e6-4fd1-a0f1-daf36f4505e6",
                 "resourcePath": "views\\dc90cced-37a4-4907-8925-1b58df2412c4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e105ea53-93a8-4576-a8c8-eaa79eeaba3b",
+            "Value": {
+                "id": "776c0175-e8de-4342-bf2f-99a9dd8dc4b8",
+                "resourcePath": "scripts\\hsConfigUser\\hsConfigUser.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -191,11 +351,35 @@
             }
         },
         {
+            "Key": "e856b3cd-d5ab-485b-aa84-259ebf51f3a3",
+            "Value": {
+                "id": "5397d155-8b6c-4cc4-8cee-785362c6dad1",
+                "resourcePath": "scripts\\hsTryLogin\\hsTryLogin.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ec7ebfce-66fd-4080-8667-ac3b764a94e6",
+            "Value": {
+                "id": "e9d05a04-abe5-49d2-b0a9-b73ef808a06b",
+                "resourcePath": "scripts\\hsUtilitiesProcessList\\hsUtilitiesProcessList.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "da4caf0f-8ef1-4b58-a59c-5a04022ed8d6",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f61d471d-4867-4cc9-ac19-2a423cb77dd5",
+            "Value": {
+                "id": "11c17a11-f375-440e-a902-d81c4690332a",
+                "resourcePath": "scripts\\hsTryRegister\\hsTryRegister.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -205,10 +389,41 @@
                 "resourcePath": "views\\fa7d7eb4-bf6a-4447-8fc7-527679b03920.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fb17aa69-7709-41b1-8425-2a3a3f205fd9",
+            "Value": {
+                "id": "44796c30-cf49-45fe-a4f0-f0325f1e06e1",
+                "resourcePath": "scripts\\hsHttpRequestOk\\hsHttpRequestOk.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
-        
+        "391856a0-8f7e-4d87-a44d-f939dd3cc21f",
+        "e105ea53-93a8-4576-a8c8-eaa79eeaba3b",
+        "9840dd17-1356-415a-9603-6e0bd204eb1c",
+        "5656ace7-9ad1-4f99-bfa3-1cb19a0d1ed6",
+        "7c59c609-1974-48ef-929d-d5d92401c3c9",
+        "1f290d5b-4ceb-465f-aa93-f351fbf753ad",
+        "15dac0cd-cc04-45ff-8b0c-cddb69b852cd",
+        "dc5b87f2-5988-4863-be01-0be2a94ab0d1",
+        "3c37521b-7874-4f3d-9ca5-3de9d39de178",
+        "98e85d20-90b3-4f3b-98f3-d6d182d05287",
+        "d0c46761-4d79-4905-9c21-2d479beeda9d",
+        "f61d471d-4867-4cc9-ac19-2a423cb77dd5",
+        "e856b3cd-d5ab-485b-aa84-259ebf51f3a3",
+        "54fcc7d7-b299-4770-a6f5-50484fa89ea5",
+        "3ca7a579-b1c0-4201-9f89-99ab48f10535",
+        "5cd62d54-2132-4df7-a67b-69f0ceeed574",
+        "fb17aa69-7709-41b1-8425-2a3a3f205fd9",
+        "1143af1d-83f8-43de-924b-4c787f18d75f",
+        "28bff4dd-240e-4232-bcaa-164799c2df93",
+        "aa704798-0186-4bda-9265-da6dc275e4c8",
+        "1bcf73d3-52ab-4321-8bf3-2cba05acb704",
+        "7bf0fd81-be12-4ed4-8d48-79c4f2896c4c",
+        "ec7ebfce-66fd-4080-8667-ac3b764a94e6",
+        "d5ee7400-8b4f-414d-9c06-331f7ffb8eb0"
     ],
     "tutorial": ""
 }
